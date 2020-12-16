@@ -12,7 +12,6 @@ As new creditors emerge around the world, these stocks of external debt will con
 ## Relationship between debt distress and exports
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Exports_to_debt_final/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '950' scrolling='yes' ></iframe>
-<br />
 
 Using this interactive map, users can view a generated ‘debt distress rating’ for a selection of low and middle-income countries. One can examine the relationship between a country’s level of indebtedness, and see how it relates to their diversity of export categories. Specifically, this rating compares the ratio at which a country uses export revenues to pay off its public external debt. Typically, if a country experiences declining export revenues and increasing levels of external debt, it is headed towards an unsustainable debt profile. In addition to this, some scholars assert that commodity-dependent economies over-borrow in times of high export revenues, leading to burdensome external debt in later years (Edo, 2020) For example, if you click on Brazil, you can easily see a diversity of export categories such as fuels, food, and agricultural products. Governments will typically use a fraction of these export revenues to pay off loans owed to other countries. Using the bar chart on the right, one can examine a country’s history of export diversification for the last 20 years.
 
@@ -29,3 +28,10 @@ Southeast Asia consists of 12 countries and a population of 655 million [United 
 <br />
 
 Sub-Saharan Africa is an incredibly diverse region, both geographically and culturally. Combined, the region’s 46 countries have a massive population, and quickly growing economies. According to the United Nations, Sub-Saharan Africa’s population as of 2019 is approximately 1.1 billion people in 2019 [United Nations](https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx). In 2019, the region of Sub-Saharan Africa borrowed for a total of almost $599 billion in public external debt. In terms of top creditors since 1999, the region traditionally borrowed from France as an official creditor country. This changed after 2009, when China became the top creditor to the region, a position which it still holds as of 2019. In terms of lending, China has grown from lending a relatively low $1.5 billion in 1999, to almost $67 billion in 2019. Looking at the chart, China is by far the largest creditor to Sub-Saharan Africa, followed by the United States with $26 billion.
+
+## Newly released creditor breakdown
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/2019CreditorMap/map?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>
+<br />
+
+The release of International Debt Statistics 2019 includes specific details on creditor countries. Previously, the World Bank kept such data limited to creditor regions. However, due to the renewed push for debt transparency - as well as global financial shocks from COVID-19 - such data is being released for the very first time. The above map visualizes the connections that select low and middle-income countries have to their creditor countries, by representing these debt flows. Further, it uses color and size to represent the levels of such public external debt.
