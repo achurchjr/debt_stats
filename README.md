@@ -31,7 +31,7 @@ Sub-Saharan Africa is an incredibly diverse region, both geographically and cult
 
 ## Newly released creditor breakdown
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/2019CreditorMap/map?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/2019CreditorMap/map?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>
 <br />
 
 The release of International Debt Statistics 2019 includes specific details on creditor countries. Previously, the World Bank kept such data limited to creditor regions. However, due to the renewed push for debt transparency - as well as global financial shocks from COVID-19 - such data is being released for the very first time. The above map visualizes the connections that select low and middle-income countries have to their creditor countries, by representing these debt flows. Further, it uses color and size to represent the levels of such public external debt.
